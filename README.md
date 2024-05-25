@@ -3,7 +3,7 @@
 I created this color theme inspired by the Obsidian editor and its code blocks.
 
 Check how cute they look together:
-![alt text](https://github.com/NekkiNeks/obsidian-vscode-theme/screenshot.png)
+![screenshot](https://github.com/NekkiNeks/obsidian-vscode-theme/screenshot.jpg)
 
 PS. Yeah, colors a bit different but i think its okay...
 
