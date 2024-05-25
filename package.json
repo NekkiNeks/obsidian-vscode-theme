@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.0.0"
   },
+  "repository": {"url": "https://github.com/NekkiNeks/obsidian-vscode-theme"},
   "publisher": "NekkiNeks",
   "author": {
     "name": "Nekzor"
