@@ -1,0 +1,29 @@
+{
+  "name": "obsidian-editor-theme",
+  "displayName": "Obsidian-theme",
+  "description": "Color theme inspired by Obsidian editor.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "publisher": "NekkiNeks",
+  "author": {
+    "name": "Nekzor"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "keywords": ["obsidian editor theme","dark theme", "vscode theme", "theme", "obsidian", "obsidian theme", "dark", "minimal", "minimalistic"],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidian Theme-color-theme.json"
+      }
+    ]
+  }
+}
