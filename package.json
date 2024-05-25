@@ -2,7 +2,7 @@
   "name": "obsidian-editor-theme",
   "displayName": "Obsidian-theme",
   "description": "Color theme inspired by Obsidian editor.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.0.0"
   },
